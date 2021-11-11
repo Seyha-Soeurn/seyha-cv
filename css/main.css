@@ -541,6 +541,11 @@ nav .profile{
         text-transform: uppercase;
     }
     .bg-color{
+        background-color: #00C2FF;
         height: 270px;
+        width: 100%;
+        position: absolute;
+        top: 640px;
+        z-index: -99999;
     }
 }
