@@ -273,10 +273,10 @@ nav .profile{
 }
 .bg-color{
     background-color: #00C2FF;
-    height: 308px;
+    height: 168px;
     width: 100%;
     position: absolute;
-    top: 500px;
+    top: 640px;
     z-index: -99999;
 }
 
