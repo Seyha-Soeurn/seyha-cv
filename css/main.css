@@ -70,6 +70,7 @@ nav .profile{
         font-weight: bold;
     }
     nav .profile{
+        margin-top: 10px;
         margin-left: 5px;
         flex-direction: column;
     }
@@ -227,6 +228,7 @@ nav .profile{
     display: flex;
     align-items: center;
     justify-content: flex-end;
+    margin-top: 20px;
 }
 .down-btn{
     display: flex;
@@ -334,7 +336,11 @@ nav .profile{
         font-size: 13px;
     }
     .bg-color{
-        height: 530px;
+        height: 460px;
+        top: 600px;
+    }
+    .content-btn-container{
+        margin-top: 30px;
     }
 }
 @media(min-width: 560px){
@@ -416,6 +422,14 @@ nav .profile{
         font-size: 16px;
         font-weight: bold;
         text-transform: uppercase;
+    }
+    .bg-color{
+        background-color: #00C2FF;
+        height: 550px;
+        width: 100%;
+        position: absolute;
+        top: 450px;
+        z-index: -99999;
     }
 }
 @media(min-width: 860px){
