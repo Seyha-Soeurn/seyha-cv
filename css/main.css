@@ -223,7 +223,6 @@ nav .profile{
     margin-top: 5px;
 }
 .content-btn-container{
-    margin-top: 50px;
     width: 100%;
     display: flex;
     align-items: center;
@@ -237,18 +236,15 @@ nav .profile{
     border: none;
     padding: 13px;
     width: 200px;
-    background-color: black;
 }
 .down-btn a{
     margin: 0;
     font-weight: bold;
     font-size: 16px;
-    color: white;
 }
 .down-btn a i {
     margin: 0;
     font-size: 20px;
-    color: white;
 }
 .down-btn a {
     display: flex;
