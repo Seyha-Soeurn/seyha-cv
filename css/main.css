@@ -277,7 +277,7 @@ nav .profile{
     z-index: -99999;
 }
 
-@media(min-width: 0px){
+@media(max-width: 767px){
     .content{
         width: 98%;
         flex-direction: column;
@@ -355,7 +355,7 @@ nav .profile{
         margin-top: 30px;
     }
 }
-@media(min-width: 560px){
+@media(min-width: 768px) and (max-width: 1023px){
     .content{
         width: 90%;
         flex-direction: column;
@@ -434,7 +434,7 @@ nav .profile{
         z-index: -99999;
     }
 }
-@media(min-width: 860px){
+@media(min-width: 1024px){
     .section-content{
         width: 100%;
         margin: auto;
@@ -518,11 +518,11 @@ nav .profile{
     }
     .down-btn i {
         margin: 0;
-        font-size: 20px;
+        font-size: 19px;
     }
     .content-btn-container .content-btn{
         padding: 13px;
-        width: 200px;
+        width: 185px;
         border-radius: 7px;
         background: #00C2FF;
         color: white;
@@ -533,7 +533,7 @@ nav .profile{
         justify-content: center;
         text-transform: uppercase;
         font-weight: bold;
-        font-size: 17px;
+        font-size: 15px;
     }
     .bg-color{
         background-color: #00C2FF;
