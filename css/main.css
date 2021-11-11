@@ -271,7 +271,7 @@ nav .profile{
 }
 .bg-color{
     background-color: #00C2FF;
-    height: 168px;
+    height: 300px;
     width: 100%;
     position: absolute;
     top: 640px;
@@ -542,7 +542,7 @@ nav .profile{
     }
     .bg-color{
         background-color: #00C2FF;
-        height: 168px;
+        height: 300px;
         width: 100%;
         position: absolute;
         top: 640px;
